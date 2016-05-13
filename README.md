@@ -2,6 +2,8 @@
 
 Website for MapCamp 2016 @ TU Wien, Vienna, Austria
 
+Test at [http://alicer.github.io/MapCamp/]
+
 ## TODO
 
 - Not sure how to get that contact form working? Give formspree.io a try (it's awesome)
