@@ -11,7 +11,7 @@ Test at [http://alicer.github.io/MapCamp/]
     * [set up form to write directly in a Google Spreadsheet](https://gist.github.com/willpatera/ee41ae374d3c9839c2d6)
 - Add participants
 - Add scroll effect for jumping to a section
-- Footer
+- Update footer with link to contact, twitter etc.
 - Work some more on the description text
 - Add pictures or just a gradient background
 
