@@ -1,0 +1,13 @@
+/* 
+  custom css for the MapCamp Website
+*/
+
+#promo {
+  min-height: 300px;
+}
+
+#promo table {
+  margin-top: 20px;
+  text-align: left;
+  min-width: 400px;
+}
