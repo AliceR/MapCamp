@@ -6,7 +6,13 @@ Test at [http://alicer.github.io/MapCamp/]
 
 ## TODO
 
-- Not sure how to get that contact form working? Give formspree.io a try (it's awesome)
+- Registration form. One of the following possibilities:
+    * formspree.io
+    * [set up form to write directly in a Google Spreadsheet](https://gist.github.com/willpatera/ee41ae374d3c9839c2d6)
+- Add participants
+- Add scroll effect for jumping to a section
+- Footer
+- Work some more on the description text
 
 ## Credits
 
@@ -19,10 +25,10 @@ Credits:
 - Icons: Font Awesome (fortawesome.github.com/Font-Awesome)
 
 - Other:
-	- jQuery (jquery.com)
-	- html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-	- CSS3 Pie (css3pie.com)
-	- background-size polyfill (github.com/louisremi)
-	- Respond.js (j.mp/respondjs)
-	- jquery.dropotron (n33.co)
-	- Skel (skel.io)
+    - jQuery (jquery.com)
+    - html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+    - CSS3 Pie (css3pie.com)
+    - background-size polyfill (github.com/louisremi)
+    - Respond.js (j.mp/respondjs)
+    - jquery.dropotron (n33.co)
+    - Skel (skel.io)
