@@ -13,6 +13,7 @@ Test at [http://alicer.github.io/MapCamp/]
 - Add scroll effect for jumping to a section
 - Footer
 - Work some more on the description text
+- Add pictures or just a gradient background
 
 ## Credits
 
